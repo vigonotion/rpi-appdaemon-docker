@@ -1,4 +1,4 @@
-FROM resin/raspberrypi3-python:3.6
+FROM balenalib/raspberrypi3-python:3-buster
 MAINTAINER vigonotion
 
 VOLUME /conf
